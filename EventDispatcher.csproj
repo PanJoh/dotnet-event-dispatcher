@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>HdcDst.Utils.EventDispatcher</AssemblyName>
+    <RootNamespace>HdcDst.Utils</RootNamespace>
+    <Authors>Johannes Pandis</Authors>
+  </PropertyGroup>
+
+</Project>
